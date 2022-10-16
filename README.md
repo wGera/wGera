@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wGera
+- 👋 Hi, I’m @wGera.
 - 👀 I’m interested in programming, videogames designer and web development.
 - 🌱 I’m currently learning web development.
 
